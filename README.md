@@ -30,11 +30,6 @@
 
 ---
 
-## 📂 Projects ()
-- **Project A** 
-- **Project B** 
----
-
 ## 📫 Contact
 - Email: mostafasalama685@gmail.com 
 - LinkedIn: [https://www.linkedin.com/in/mostafa-salama-36a718237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mostafa-salama-36a718237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
