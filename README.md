@@ -40,7 +40,7 @@
 ### 🛠️ Tools & Extras
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-ColorCode?style=for-the-badge&logo=LogoName&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32%20%2F%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![notebooklm](https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white)
-![google Gemini]([https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![googleGemini]([https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Cursor&logoColor=white)
 
