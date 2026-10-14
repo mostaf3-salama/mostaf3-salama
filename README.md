@@ -37,10 +37,9 @@
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![Amazon](https://img.shields.io/badge/Amazon-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛠️ Tools & Extras
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
