@@ -11,32 +11,27 @@
 <div align="center">
 
 ## 💻 Languages
-
-![C#](https://img.shields.io/badge/C#-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Java](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### 🖥️ Frontend
+![taype Script](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ### ⚙️ Backend & Databases
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
 ### 🤖 AI / ML / CV
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20LLM-4285F4?style=flat-square&logo=google&logoColor=white)
-
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
 ### 🛠️ Tools & Extras
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-ColorCode?style=for-the-badge&logo=LogoName&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32%20%2F%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
