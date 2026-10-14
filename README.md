@@ -47,8 +47,7 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![ChatGPT]([https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white))
-![ESP32](https://img.shields.io/badge/ESP32%20%2F%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/Name-ColorCode?style=for-the-badge&logo=LogoName&logoColor=white)![ESP32](https://img.shields.io/badge/ESP32%20%2F%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
 </div>
 
